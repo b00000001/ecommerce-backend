@@ -22,7 +22,7 @@ This is back end for an e-commerce server that demonstrates CRUD operations usin
 
 # Usage
 
-![Usage Instructions](./assets/appdemo.gif)
+![Usage Instructions](./Assets/appdemo.gif)
 The application can be tested by installing the necessary dependencies and then testing CRUD operations using an application such as Postman or insomnia. The gif provided can give you a demonstration of the applications expected behavior.
 
 # License
